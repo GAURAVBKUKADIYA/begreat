@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "528337688534",
+    "project_id": "begreat-1f31e",
+    "storage_bucket": "begreat-1f31e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528337688534:android:a59607ead439b8c51c3677",
+        "android_client_info": {
+          "package_name": "com.example.begreat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528337688534-gsap845tmqqkmv19n5b07embaqi4anh2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtaBHdMvTJxtUgdlYV0mMJ_l7XAYkZsVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528337688534-gsap845tmqqkmv19n5b07embaqi4anh2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
